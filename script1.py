@@ -1,0 +1,1 @@
+print("esta es mucha infromacion, pero me encanta aprender  nuevas cosas")
